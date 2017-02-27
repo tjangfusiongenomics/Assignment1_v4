@@ -1,0 +1,10 @@
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\EntityFramework.dll
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\EntityFramework.xml
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
+C:\Users\tom\Desktop\Assignment1\ZenithDataLib\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
